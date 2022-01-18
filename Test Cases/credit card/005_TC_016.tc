@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>To check user able to apply credit card application with Valid Credentials (customer id &amp; Date of birth)</description>
-   <name>005_TC_001</name>
+   <description>To check user able to apply credit card application without entering OTP</description>
+   <name>005_TC_016</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c49a6aba-81b7-46d7-a238-da73c055f1d0</testCaseGuid>

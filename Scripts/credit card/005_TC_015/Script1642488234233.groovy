@@ -21,11 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.axisbank.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Personal Banking  Internet Banking  Co_3e2a1a/a_login'))
-
-WebUI.click(findTestObject('Object Repository/Page_Personal Banking  Internet Banking  Co_3e2a1a/h4_Cards'))
-
-WebUI.click(findTestObject('Object Repository/Page_Personal Banking  Internet Banking  Co_3e2a1a/a_Credit Card'))
+WebUI.navigateToUrl('https://clctab.axisbank.co.in/DigitalChannel/WebForm/?index6&_ga=2.17106237.586592390.1642480016-1098874808.1642480016')
 
 WebUI.maximizeWindow()
 
@@ -35,17 +31,13 @@ WebUI.click(findTestObject('Object Repository/Page_Axis Bank/strong_Customer ID'
 
 WebUI.setText(findTestObject('Object Repository/Page_Axis Bank/input__cust_Id'), '908508634')
 
-WebUI.setText(findTestObject('Object Repository/Page_Axis Bank/input_Date of Birth_cust_DOB'), '01/06/1997')
+WebUI.setText(findTestObject('Object Repository/Page_Axis Bank/input_Date of Birth_cust_DOB'), '01/06/1990')
 
 WebUI.click(findTestObject('Object Repository/Page_Axis Bank/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Axis Bank/input__otp_Number'))
+WebUI.verifyTextPresent('Axis Bank', false)
 
-WebUI.click(findTestObject('Object Repository/Page_Axis Bank/label_I agree to terms and conditions of OTP'))
-
-WebUI.click(findTestObject('Object Repository/Page_Axis Bank/button_I agree'))
-
-WebUI.click(findTestObject('Object Repository/Page_Axis Bank/button_Submit'))
+WebUI.takeFullPageScreenshot()
 
 WebUI.closeBrowser()
 

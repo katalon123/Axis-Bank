@@ -43,5 +43,7 @@ WebUI.click(findTestObject('Object Repository/Page_Axis Bank/button_I agree'))
 
 WebUI.verifyElementVisible(findTestObject('Page_Axis Bank/button_Submit'))
 
+WebUI.takeFullPageScreenshot()
+
 WebUI.closeBrowser()
 

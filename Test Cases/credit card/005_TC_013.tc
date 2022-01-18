@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>To check user able to apply credit card application with Valid Credentials (customer id &amp; Date of birth)</description>
-   <name>005_TC_001A</name>
+   <name>005_TC_013</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>494cd060-08f0-4d4a-a014-1eba2a5201e3</testCaseGuid>
