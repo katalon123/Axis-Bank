@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check user able to apply credit card application with Valid Credentials (customer id &amp; PAN Card)</description>
+   <name>005_TC_017</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12971ead-4932-42c0-8072-f7b4eea16dbf</testCaseGuid>
+</TestCaseEntity>

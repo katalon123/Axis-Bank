@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To check user able to apply credit card application without entering OTP</description>
+   <name>005_TC_020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdc528e1-ef79-4d1a-a791-d3a6ddc2dabe</testCaseGuid>
+</TestCaseEntity>
