@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.flipkart.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/button_ (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/div_Home'))
+
+WebUI.click(findTestObject('Object Repository/Page_Republicday 22 Sale Store Online - Buy_10d9f0/div_Locks'))
+
+WebUI.click(findTestObject('Object Repository/Page_Locks () Buy Key Locks Online at Best _3f1234/a_Afonlock S.S FIMISH FOOT OPERATED DOOR ST_29949a'))
+
+WebUI.closeBrowser()
+
