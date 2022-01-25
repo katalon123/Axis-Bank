@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>ba487f63-1bcc-4e8f-bdc4-badbc42b1fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Confirmation. Hon'ble Prime Minister message on &quot;Public Health Response to COVID-19: Campaign for COVID-Appropriate Behaviour&quot;. &lt;a class=&quot;txt-msg-info&quot; target=&quot;_blank&quot; href=&quot;http://contents.irctc.co.in/en/Covid19PMMessage.pdf&quot;>Wear Mask, Follow Physical Distancing, Maintain Hand Hygine.&lt;/a>&lt;br/>&lt;br/>Get your favourite food at your train seat through &lt;a class=&quot;txt-msg-info&quot; target=&quot;_blank&quot; href=&quot;https://www.ecatering.irctc.co.in/&quot;>e-Catering&lt;/a> available at selected stations.&lt;br/>&lt;br/>COVID 19 Alert:&lt;br/>&lt;br/>&lt;i class=&quot;fa fa-circle&quot; >&lt;/i>&lt;a class=&quot;txt-msg-info&quot;target=&quot;_blank&quot;href=&quot;http://contents.irctc.co.in/en/CovidVaccinationInfoEng.pdf&quot;> Information on Covid 19 Vaccination Programme&lt;/a>&lt;br/>&lt;br/>&lt;i class=&quot;fa fa-circle&quot; >&lt;/i> All passengers are hereby informed that downloading of Aarogya Setu App on their mobile phone, that they are carrying along, is advisable.&lt;br/>&lt;br/> &lt;i class=&quot;fa fa-circle&quot; >&lt;/i> All Passenger to kindly note that on arrival at their destination, the traveling passengers will have to adhere to such health protocols as are prescribed by the destination State/UT. &lt;a class=&quot;txt-msg-info&quot; target=&quot;_blank&quot; href=&quot;http://contents.irctc.co.in/en/stateWiseAdvisory.html&quot;>Click Here to see state wise advisory on Arrival(As available). &lt;/a>For other states, State Govt websites may be visited to ascertain the same.&lt;br/>&lt;br/>&lt;i class=&quot;fa fa-circle&quot; >&lt;/i> Though various State Governments' Advisories have been provided on IRCTC Website, Still Users are advised to surf Destination State Government URL/ Website for latest instructions on Covid-19 pandemic and Covid appropriate behaviour.&lt;br/>&lt;br/>&lt;i class=&quot;fa fa-circle&quot; >&lt;/i> No blanket and linen shall be provided in the train. Although Take Away Bedroll Kit is available in some trains on payment basis.&lt;a class=&quot;txt-msg-info&quot; target=&quot;_blank&quot; href=&quot;http://contents.irctc.co.in/en/Trains_Bedroll_Kit_Available.pdf&quot;> Click here to see the train list.&lt;/a>. Press OK to confirm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ui-overflow-hidden&quot;]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/div[1]/app-header[1]/p-dialog[@class=&quot;ng-tns-c45-2&quot;]/div[@class=&quot;ng-tns-c45-2 ui-dialog-mask ui-widget-overlay ui-dialog-visible ui-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c45-2 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-draggable ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c45-2 ui-dialog-content ui-widget-content&quot;]/div[@class=&quot;pnr-detail test-center ng-tns-c45-2&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;text-center col-xs-12&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to see the train list.'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Here to see state wise advisory on Arrival(As available).'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IRCTC'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'OK' or . = 'OK')]</value>
+   </webElementXpaths>
+</WebElementEntity>
